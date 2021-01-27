@@ -8,7 +8,7 @@ VERSION: Tested in Jan 2021 for Brackets Editor of version 1.14.2 on Windows 10
 STORY: I don’t know why, but my Brackets Editor
 started to show me “External changes” dialog
 even on switching applications. Maybe because
-of changing my HDD for SSD, or Git extension
+of changing my HDD to SSD, or Git extension
 or changing my OS to Windows 10.
 
 So, I created this my first plugin.
