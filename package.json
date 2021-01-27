@@ -11,6 +11,10 @@
 		"email":	"info@dvorakj.com",
 		"url":		"http://www.dvorakj.com"
 	},
+	"repository": {
+		"type":		"git",
+		"url":		"https://github.com/StarboyCZ/external-changes-dialog.git"
+	},
 	"engines":	{
 		"brackets":	"tested on 1.14.2"
 	},
