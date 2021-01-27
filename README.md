@@ -1,7 +1,7 @@
 An extension for Adobe Brackets editor
 # External changes dialog
 
-DESCRIPTION: Remove “External changes” dialog by clicking on “Cancel” button
+DESCRIPTION: Removing “External changes” dialog by automatically clicking on “Cancel” button
 
 VERSION: Tested in Jan 2021 for Brackets Editor of version 1.14.2 on Windows 10
 
