@@ -12,7 +12,7 @@
 		"url":		"http://www.dvorakj.com"
 	},
 	"engines":	{
-        	"brackets":	"tested on 1.14.2"
+		"brackets":	"tested on 1.14.2"
 	},
 	"files":	[
 		"LICENSE",
