@@ -16,7 +16,7 @@
 		"url":		"https://github.com/StarboyCZ/external-changes-dialog.git"
 	},
 	"engines":	{
-		"brackets":	"tested on 1.14.2"
+		"brackets":	"1.14.2"
 	},
 	"files":	[
 		"LICENSE",
