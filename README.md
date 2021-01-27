@@ -17,7 +17,7 @@ FUNCTIONALITY: It is mutation listener of body element.
 It listens its childList, so on a change
 it finds out the existance of that dialog
 and its cancel button, and if that exists,
-it click on it.
+it clicks on it.
 
 AUTHOR:
 Graphic designer
