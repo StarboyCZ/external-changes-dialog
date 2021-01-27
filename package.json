@@ -14,8 +14,9 @@
         	"brackets":	"1.14.2"
 	},
 	"files":	[
-		"License",
+		"LICENSE",
 		"main.js",
-		"package.json"
+		"package.json",
+		"README.md"
 	]
 }
