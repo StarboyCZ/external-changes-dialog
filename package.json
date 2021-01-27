@@ -1,7 +1,7 @@
 {
 	"name":		"external-changes-dialog",
 	"title":	"External changes dialog",
-	"description":	"Remove “External changes” dialog by clicking on “Cancel” button",
+	"description":	"Removing “External changes” dialog by automatically clicking on “Cancel” button",
 	"keywords":	[ "external", "changes", "dialog", "remove" ],
 	"version":	"0.0.1",
 	"license":	"MIT",
