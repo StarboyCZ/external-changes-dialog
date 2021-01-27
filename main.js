@@ -1,27 +1,18 @@
-/*
-	It is mutation listener of body element.
-	It listens its childList, so on a change
-	it finds out the existance of that dialog
-	and its cancel button, and if that exists,
-	it click on it.
-
-	// Tested in Jan 2021 for Brackets Editor of version 1.14.2 on Windows 10
-*/
-
+// Tested in Jan 2021 for Brackets Editor of version 1.14.2 on Windows 10
 
 define( function( br_r, br_e, br_m )
 {
-    "use strict";
+	"use strict";
 
 	var AppInit = brackets.getModule( "utils/AppInit" );
-    AppInit.appReady( function()
+	AppInit.appReady( function()
 	{
 		// Declaration
 		var t, // target
-			c, // config of observer
-			o; // observer
+		    c, // config of observer
+		    o; // observer
 
-        // Attributes
+		// Attributes
 		t = document.body;
 		c = { childList: true };
 
@@ -37,5 +28,5 @@ define( function( br_r, br_e, br_m )
 
 		// Start observing
 		o.observe( t, c );
-    });
+	});
 });
