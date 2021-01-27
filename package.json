@@ -5,13 +5,14 @@
 	"keywords":	[ "external", "changes", "dialog", "remove" ],
 	"version":	"0.0.1",
 	"license":	"MIT",
+	"homepage":	"https://github.com/StarboyCZ/external-changes-dialog",
 	"author":	{
 		"name":		"Jiří Dvořák",
 		"email":	"info@dvorakj.com",
 		"url":		"http://www.dvorakj.com"
 	},
 	"engines":	{
-        	"brackets":	"1.14.2"
+        	"brackets":	"tested on 1.14.2"
 	},
 	"files":	[
 		"LICENSE",
