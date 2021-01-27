@@ -1,24 +1,9 @@
 /*
-	I don’t know why, but my Brackets Editor
-	started to show me “External changes” dialog
-	even on switching applications. Maybe because
-	of changing my HDD for SSD, or Git extension
-	or changing my OS to Windows 10.
-
-	So, I created this my first plugin.
-
 	It is mutation listener of body element.
 	It listens its childList, so on a change
 	it finds out the existance of that dialog
 	and its cancel button, and if that exists,
 	it click on it.
-
-	Graphic designer
-	& amateur fullstack developer
-
-	Jiří Dvořák
-	info@dvorakj.com
-
 
 	// Tested in Jan 2021 for Brackets Editor of version 1.14.2 on Windows 10
 */
