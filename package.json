@@ -3,7 +3,7 @@
 	"title":	"External changes dialog",
 	"description":	"Removing “External changes” dialog by automatically clicking on “Cancel” button",
 	"keywords":	[ "external", "changes", "dialog", "remove" ],
-	"version":	"0.0.1",
+	"version":	"0.0.2",
 	"license":	"MIT",
 	"homepage":	"https://github.com/StarboyCZ/external-changes-dialog",
 	"author":	{
