@@ -1,6 +1,6 @@
 // Tested in Jan 2021 for Brackets Editor of version 1.14.2 on Windows 10
 
-define( function( br_r, br_e, br_m )
+define( function( require, exports, module )
 {
 	"use strict";
 
@@ -12,11 +12,11 @@ define( function( br_r, br_e, br_m )
 		    c, // config of observer
 		    o; // observer
 
-		// Attributes
+		// Parameters
 		t = document.body;
 		c = { childList: true };
 
-		// Create an observer with action
+		// Create an observer with handler
 		o = new MutationObserver( function()
 		{
 			// Reference
