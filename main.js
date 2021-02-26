@@ -7,8 +7,8 @@ define( function( require, exports, module )
 	{
 		// Declaration
 		var t, // target
-		    c, // config of observer
-		    o; // observer
+			c, // config of observer
+			o; // observer
 
 		// Parameters
 		t = document.body;
