@@ -1,9 +1,9 @@
 {
-	"name":		"external-changes-dialog",
-	"title":	"External changes dialog",
+	"name":		"starboy.external-changes-dialog",
+	"title":	"External Changes Dialog",
 	"description":	"Removing “External changes” dialog by automatically clicking on “Cancel” button",
-	"keywords":	[ "external", "changes", "dialog", "remove" ],
-	"version":	"0.0.2",
+	"keywords":	[ "external", "changes", "dialog", "remove", "starboy" ],
+	"version":	"0.0.3",
 	"license":	"MIT",
 	"homepage":	"https://github.com/StarboyCZ/external-changes-dialog",
 	"author":	{
