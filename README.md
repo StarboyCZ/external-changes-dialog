@@ -1,5 +1,5 @@
 An extension for Adobe Brackets editor
-# External changes dialog
+# External Changes Dialog
 
 DESCRIPTION: Removing “External changes” dialog by automatically clicking on “Cancel” button.
 It doesn’t affect the same named dialog about removed files.
