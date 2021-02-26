@@ -1,5 +1,3 @@
-// Tested in Jan 2021 for Brackets Editor of version 1.14.2 on Windows 10
-
 define( function( require, exports, module )
 {
 	"use strict";
